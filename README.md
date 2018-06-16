@@ -31,6 +31,7 @@ Using type_traits tricks
 > empty(), size(), push(), pop(), top(), front(), back()
  ### 4. algorithms
 **sort**: using insertion sort/quick sort/heap sort
+
 **stable_sort**: stable version, using insertion sort/merge sort
  ### 5. allocators
 Providing a simple allocator. Users can customize their own allocators.
