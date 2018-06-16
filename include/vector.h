@@ -51,7 +51,7 @@ namespace ezSTL {
 		vector<value_type, Alloc>& operator= (const vector<value_type, Alloc>& v);
 		vector(vector<value_type, Alloc>&& v) noexcept;
 		vector<value_type, Alloc>& operator= (vector<value_type, Alloc>&& v) noexcept;
-		// deconstructor
+		// destructor
 		~vector() {
 			destroy(start, finish);
 			deallocate();

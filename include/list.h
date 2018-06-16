@@ -1,6 +1,6 @@
 /*********************************************************************************************/
 // class list:
-// using bidirectional as basic data structure
+// using bidirectional list as basic data structure
 // including some basic functions of list:
 //
 // 1. iterator begin() const;
@@ -147,7 +147,7 @@ namespace ezSTL {
 			other.__size = 0;
 			return *this;
 		}
-		// deconstructor
+		// destructor
 		~list() {
 			if (!empty()) {
 				clear();

@@ -248,7 +248,7 @@ namespace ezSTL {
 				return *this;
 			}
 
-			// deconstructor
+			// destructor
 			~unordered_map() {
 				clear();
 			}
