@@ -43,6 +43,7 @@ Providing shared_ptr, unique_ptr and weak_ptr.
  ### 8. test class
 **correctness**:
 random data sets are generate to test the correctness of all the components above repeatedly.
+
 **efficiency**
 EzSTL shows some progress in efficiency compared to PJ STL and SGI STL in some aspects. For example, ezSTL is slightly better than PJ STL in set/map inserting, finding, erasing and in sort function. It also excels SGI STL in  set/map inserting, finding, erasing.
 ![enter image description here](https://github.com/cjc12/ezSTL/blob/master/png/rbtree.png)
