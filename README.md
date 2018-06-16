@@ -1,5 +1,5 @@
 # [ezSTL](https://github.com/cjc12/ezSTL)
-EzSTL (easy STL) is a tiny STL writen by generic programming and C++11, providing six basic components: containers,  iterators, adapters, algorithms, allocators and functions. It also contains three smart pointers(shared_ptr, unique_ptr and weak_ptr) and test codes.
+EzSTL (easy STL) is a tiny STL writen by generic programming and C++11, providing six basic components: containers,  iterators, adapters, algorithms, allocators and functions. It also contains three smart pointers(shared_ptr, unique_ptr, weak_ptr) and test codes.
 ## Instructions
  1. download codes
  2. change "src/main.cpp" as needed
