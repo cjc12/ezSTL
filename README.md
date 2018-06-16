@@ -11,16 +11,22 @@ EzSTL (easy STL) is a tiny STL writen by generic programming and C++11, providin
 ## Compotents
  ### 1. containters
  **vector**: dynamic array
+ 
 **list**: bidirectional list
+
 **set**: red-black tree
+
 **map**: red-black tree
+
 **unordered_map**: hash table
 > begin(), end(), empty(), size(), push_back(), pop_back(), find(), insert(), erase(), clear(), copy constructor, move constructor, copy assignment operator, move assignment operator, destructor, etc
 ### 2. iterators
 Using type_traits tricks
 ### 3. adapters
 **stack**: using list as base container
+
 **queue**: using list as base container
+
 **priority_queue**: using vector as base container
 > empty(), size(), push(), pop(), top(), front(), back()
  ### 4. algorithms
