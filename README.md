@@ -37,6 +37,7 @@ Using type_traits tricks
 Providing a simple allocator. Users can customize their own allocators.
  ### 6. functions
 Providing functions including less, greater, etc.
+
 Providing a universal hash function for unordered_map.
  ### 7. smart pointers
 Providing shared_ptr, unique_ptr and weak_ptr.
