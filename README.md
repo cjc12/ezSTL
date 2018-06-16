@@ -51,5 +51,5 @@ EzSTL shows some progress in efficiency compared to PJ STL and SGI STL in some a
 ![sort compared with SGI STL](https://github.com/cjc12/ezSTL/blob/master/png/sort.png)
 ![rbtree compared with PJ STL](https://github.com/cjc12/ezSTL/blob/master/png/rbtree_pj.png)
 ![sort compared with PJ STL](https://github.com/cjc12/ezSTL/blob/master/png/sort_pj.png)
-## Code lines statistic
+## Code lines
 ![statistic](https://github.com/cjc12/ezSTL/blob/master/png/statistic.png)
