@@ -1,7 +1,7 @@
 # [ezSTL](https://github.com/cjc12/ezSTL)
 EzSTL (easy STL) is a tiny STL writen by generic programming and C++11, providing six basic components: containers,  iterators, adapters, algorithms, allocators and functions. It also contains three smart pointers(shared_ptr, unique_ptr, weak_ptr) and test codes.
 ## Instructions
- 1. git clone https://github.com/cjc12/ezSTL
+ 1. git clone https://github.com/cjc12/ezSTL.git
  2. make test
  3. ./test
 ## Test environment
@@ -47,9 +47,9 @@ random data sets are generate to test the correctness of all the components abov
 **efficiency**:
 EzSTL shows some progress in efficiency compared to PJ STL and SGI STL in some aspects. For example, ezSTL is slightly better than PJ STL in set/map inserting, finding, erasing and in sort function. It also excels SGI STL in  set/map inserting, finding, erasing.
 
-![enter image description here](https://github.com/cjc12/ezSTL/blob/master/png/rbtree.png)
-![enter image description here](https://github.com/cjc12/ezSTL/blob/master/png/sort.png)
-![enter image description here](https://github.com/cjc12/ezSTL/blob/master/png/rbtree_pj.png)
-![enter image description here](https://github.com/cjc12/ezSTL/blob/master/png/sort_pj.png)
+![rbtree compared with SGI STL](https://github.com/cjc12/ezSTL/blob/master/png/rbtree.png)
+![sort compared with SGI STL](https://github.com/cjc12/ezSTL/blob/master/png/sort.png)
+![rbtree compared with PJ STL](https://github.com/cjc12/ezSTL/blob/master/png/rbtree_pj.png)
+![sort compared with PJ STL](https://github.com/cjc12/ezSTL/blob/master/png/sort_pj.png)
 ## Statistic
-![enter image description here](https://github.com/cjc12/ezSTL/blob/master/png/statistic.png)
+![statistic](https://github.com/cjc12/ezSTL/blob/master/png/statistic.png)
