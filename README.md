@@ -5,8 +5,8 @@ EzSTL (easy STL) is a tiny STL writen by generic programming and C++11, providin
  2. make test
  3. ./test
 ## Test environment
- - Visual Studio 2015/2017 under win10 enterprise edition
- - g++ 5.2.1/6.3.0 under ubuntu 15.10
+ - Visual Studio 2015/2017 and g++ 6.3.0 under win10 enterprise edition
+ - g++ 5.2.1 under ubuntu 15.10
 ## Compotents
  ### 1. containters
  **vector**: dynamic array
