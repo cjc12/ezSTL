@@ -6,7 +6,7 @@ using namespace ezSTL;
 
 int main()
 {
-	// delete the annotations to run the testing codes of the corresponding modules
+	// add annotations to prevent running the testing codes of corresponding modules
 	test::test_vector();
 	test::test_list();
 	test::test_stack();
